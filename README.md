@@ -54,7 +54,7 @@ Clone the repository:
 
 bash
 git clone https://github.com//webpk-hub/wireplumber-sampling-rate-fixer.git
-cd YOUR_REPO_NAME
+cd wireplumber-sampling-rate-fixer/
 Grant execution permission:
 赋予执行权限：
 
