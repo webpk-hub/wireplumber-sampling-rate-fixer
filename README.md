@@ -53,7 +53,7 @@ Clone the repository:
 克隆仓库：
 
 bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com//webpk-hub/wireplumber-sampling-rate-fixer.git
 cd YOUR_REPO_NAME
 Grant execution permission:
 赋予执行权限：
